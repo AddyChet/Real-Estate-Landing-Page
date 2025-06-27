@@ -48,7 +48,7 @@ const Contact = () => {
             Your Name
             <input className='w-full border border-gray-300 rounded py-3 px-4 mt-2' type="text" name='Name' placeholder='Your Name' required/>
         </div>
-        <div className='w-full md:w-1/2 text-left md:pl-4'>
+        <div className='w-full md:w-1/2 text-left md:pl-4 md:pt-0 pt-2'>
             Your Email
             <input className='w-full border border-gray-300 rounded py-3 px-4 mt-2' type="email" name='Email' placeholder='Your Email' required/>
         </div>
